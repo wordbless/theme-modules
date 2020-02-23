@@ -1,0 +1,18 @@
+{
+	"name": "wordbless/theme-modules",
+	"description": "Manage your theme with the power of theme modules.",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "fegodev",
+			"homepage": "https://github.com/fegodev"
+		}
+	],
+	"minimum-stability": "dev",
+	"autoload": {
+		"files": ["src/Module.php"]
+	},
+	"require": {
+		"php": ">=7"
+	}
+}
